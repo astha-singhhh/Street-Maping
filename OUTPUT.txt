@@ -1,0 +1,22 @@
+Contact Information:
+
+Name: Astha Singh
+Email: asingh50@u.rochester.edu
+
+Compile and run steps of code:
+To complile, type "javac *.java" into the command line.
+To run the code, type these are some examples of what to type into the command line:
+java Test map.txt
+java Test map.txt -show
+java Test map.txt -directions i1 i2
+java Test map.txt -meridianmap 
+java Test map.txt -meridianmap i1 i2
+java Test map.txt -show i1 i2
+java Test map.txt -show -meridianmap
+
+where map.txt contains the formatted data of the roads and intersections (the provided formatted data sets in the assignment: nys.txt, monroe.txt, ur.txt)
+where i1 and i2 are the IntersectionIDs of the start and end intersections respectively. When using the map of ur.txt, 
+you can type r1 and r2 which are the RoadID, the InteresectionID, or names of meaning intersection IDs such as "SUEB" or "LOVEJOY". 
+
+
+
