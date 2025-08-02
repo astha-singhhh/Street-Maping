@@ -1,17 +1,8 @@
-Contact Information:
-
-Name: Astha Singh
-Email: asingh50@u.rochester.edu
-
 Street Maping Project
 
 Synposis:
-This project is a rudimentary mapping java program that reads the given formatted data of intersections and roads in a specific geographic region.
-This program uses the given data set to plot a map of the data, provide the shortest path directions between any random intersections using Dijkstra's
-algorithm, and calculate the minimum weight spanning tree for the whole map. The final graph representation used is a HashMap of Strings to LinkedLists, 
-where the Strings are IntersectionIDs and the LinkedList have a node Head, that stores the Intersection object, and a pointer to an Edge, which stores 
-a Road that the intersection is a part of. To display the entire Graph, every Road is added to an ArrayList of Roads and a 2D line is painted with the same 
-endpoints as the road.
+
+This project is a rudimentary mapping java program that reads the given formatted data of intersections and roads in a specific geographic region. This program uses the given data set to plot a map of the data, provide the shortest path directions between any random intersections using Dijkstra's algorithm, and calculate the minimum weight spanning tree for the whole map. The final graph representation used is a HashMap of Strings to LinkedLists,  where the Strings are IntersectionIDs and the LinkedList have a node Head, that stores the Intersection object, and a pointer to an Edge, which stores a Road that the intersection is a part of. To display the entire Graph, every Road is added to an ArrayList of Roads and a 2D line is painted with the same endpoints as the road.
 
 
 List of all files submitted:
